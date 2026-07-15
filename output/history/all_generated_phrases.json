@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "To say hello, you can just smile.",
+      "romanian": "Să spui salut, poți zâmbi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573773"
+    },
+    {
+      "english": "To drink coffee, say 'cafea, te rog'.",
+      "romanian": "Să bei cafea, spui 'cafea, te rog'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573782"
+    },
+    {
+      "english": "To ask for water, say 'apă, vă rog'.",
+      "romanian": "Să ceri apă, spui 'apă, vă rog'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573784"
+    },
+    {
+      "english": "To feel happy, try a new word.",
+      "romanian": "Să te simți fericit, încearcă un cuvânt nou.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573785"
+    },
+    {
+      "english": "To make friends, listen carefully.",
+      "romanian": "Să îți faci prieteni, ascultă cu atenție.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573787"
+    },
+    {
+      "english": "To understand, repeat what you hear.",
+      "romanian": "Să înțelegi, repetă ce auzi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573788"
+    },
+    {
+      "english": "To ask for the bill, say 'nota, vă rog'.",
+      "romanian": "Să ceri nota, spui 'nota, vă rog'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573790"
+    },
+    {
+      "english": "To order food, point at the menu.",
+      "romanian": "Să comanzi mâncare, arată meniul.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573792"
+    },
+    {
+      "english": "To say goodbye, wave your hand.",
+      "romanian": "Să spui la revedere, fă cu mâna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573794"
+    },
+    {
+      "english": "To get directions, ask for 'strada'.",
+      "romanian": "Să ceri indicații, întreabă de 'strada'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573796"
+    },
+    {
+      "english": "To buy a ticket, show your money.",
+      "romanian": "Să cumperi bilet, arată banii.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573797"
+    },
+    {
+      "english": "To feel tired, say 'obosit sunt'.",
+      "romanian": "Să te simți obosit, spui 'obosit sunt'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573798"
+    },
+    {
+      "english": "To feel hungry, think of food.",
+      "romanian": "Să ți fie foame, gândește-te la mâncare.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573800"
+    },
+    {
+      "english": "To ask the time, look at your watch.",
+      "romanian": "Să întrebi ora, uită-te la ceas.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573801"
+    },
+    {
+      "english": "To find a place, use a map.",
+      "romanian": "Să găsești un loc, folosește o hartă.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573802"
+    },
+    {
+      "english": "To feel good, say 'bine'.",
+      "romanian": "Să te simți bine, spui 'bine'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573804"
+    },
+    {
+      "english": "To say thank you, smile warmly.",
+      "romanian": "Să spui mulțumesc, zâmbește călduros.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573805"
+    },
+    {
+      "english": "To ask for help, raise your hand.",
+      "romanian": "Să ceri ajutor, ridică mâna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573806"
+    },
+    {
+      "english": "To learn a word, write it down.",
+      "romanian": "Să înveți un cuvânt, scrie-l.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573807"
+    },
+    {
+      "english": "To relax, close your eyes.",
+      "romanian": "Să te relaxezi, închide ochii.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573814"
+    },
+    {
+      "english": "To remember, say it out loud.",
+      "romanian": "Să îți amintești, spune tare.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573821"
+    },
+    {
+      "english": "To see a doctor, say 'doctor'.",
+      "romanian": "Să vezi un doctor, spui 'doctor'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573823"
+    },
+    {
+      "english": "To buy bread, go to the bakery.",
+      "romanian": "Să cumperi pâine, mergi la brutărie.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573825"
+    },
+    {
+      "english": "To feel cold, put on a sweater.",
+      "romanian": "Să ți fie frig, îmbracă un pulover.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573827"
+    },
+    {
+      "english": "To feel warm, remove a layer.",
+      "romanian": "Să ți fie cald, dă jos un strat.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573830"
+    },
+    {
+      "english": "To ask a question, use 'cine?'.",
+      "romanian": "Să pui o întrebare, folosești 'cine?'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573853"
+    },
+    {
+      "english": "To know something, say 'știu'.",
+      "romanian": "Să știi ceva, spui 'știu'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573856"
+    },
+    {
+      "english": "To not know, say 'nu știu'.",
+      "romanian": "Să nu știi, spui 'nu știu'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573858"
+    },
+    {
+      "english": "To visit someone, bring a gift.",
+      "romanian": "Să vizitezi pe cineva, aduci un dar.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573860"
+    },
+    {
+      "english": "To cross the street, look both ways.",
+      "romanian": "Să traversezi strada, uită-te ambele părți.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573862"
+    },
+    {
+      "english": "To get a bus, find the 'stație'.",
+      "romanian": "Să iei autobuzul, găsește 'stația'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573864"
+    },
+    {
+      "english": "To write a letter, use a pen.",
+      "romanian": "Să scrii o scrisoare, folosește un pix.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573866"
+    },
+    {
+      "english": "To open a door, turn the handle.",
+      "romanian": "Să deschizi ușa, rotește mânerul.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573868"
+    },
+    {
+      "english": "To close a window, push it shut.",
+      "romanian": "Să închizi fereastra, apasă să se închidă.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573871"
+    },
+    {
+      "english": "To ask for the price, say 'cât costă?'.",
+      "romanian": "Să întrebi prețul, spui 'cât costă?'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573873"
+    },
+    {
+      "english": "To show respect, be polite.",
+      "romanian": "Să arăți respect, fii politicos.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573875"
+    },
+    {
+      "english": "To celebrate, sing a song.",
+      "romanian": "Să sărbătorești, cântă un cântec.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573877"
+    },
+    {
+      "english": "To travel, buy a train ticket.",
+      "romanian": "Să călătorești, cumpără bilet de tren.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573880"
+    },
+    {
+      "english": "To get married, say 'da'.",
+      "romanian": "Să te căsătorești, spui 'da'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573882"
+    },
+    {
+      "english": "To get divorced, say 'nu'.",
+      "romanian": "Să divortezi, spui 'nu'.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573884"
+    },
+    {
+      "english": "To make a mistake, learn from it.",
+      "romanian": "Să greșești, învață din asta.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573885"
+    },
+    {
+      "english": "Learn Romanian, unlock Romania.",
+      "romanian": "Învață româna, deschide România.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573886"
+    },
+    {
+      "english": "Speak Romanian, connect deeply.",
+      "romanian": "Vorbește româna, conectează-te profund.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573888"
+    },
+    {
+      "english": "Taste Romania, with its words.",
+      "romanian": "Gustă România, cu cuvintele ei.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573889"
+    },
+    {
+      "english": "Understand legends, in Romanian.",
+      "romanian": "Înțelege legende, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573890"
+    },
+    {
+      "english": "Explore history, one word at a time.",
+      "romanian": "Explorează istoria, un cuvânt odată.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573891"
+    },
+    {
+      "english": "Find new friends, speaking Romanian.",
+      "romanian": "Găsește prieteni noi, vorbind românește.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573893"
+    },
+    {
+      "english": "Your Romanian journey, begins now.",
+      "romanian": "Călătoria ta românească, începe acum.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573894"
+    },
+    {
+      "english": "Build bridges, with Romanian.",
+      "romanian": "Construiește punți, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573895"
+    },
+    {
+      "english": "Discover culture, through language.",
+      "romanian": "Descoperă cultura, prin limbă.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573896"
+    },
+    {
+      "english": "Charm locals, with Romanian phrases.",
+      "romanian": "Farmecă localnicii, cu fraze românești.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573897"
+    },
+    {
+      "english": "Travel better, speak Romanian.",
+      "romanian": "Călătorește mai bine, vorbește românește.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573901"
+    },
+    {
+      "english": "Order coffee, like a local.",
+      "romanian": "Comandă cafea, ca un localnic.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573903"
+    },
+    {
+      "english": "Share stories, in Romanian.",
+      "romanian": "Împărtășește povești, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573906"
+    },
+    {
+      "english": "Unlock hidden gems, with Romanian.",
+      "romanian": "Descoperă comori ascunse, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573907"
+    },
+    {
+      "english": "Impress your friends, learn Romanian.",
+      "romanian": "Impresionează-ți prietenii, învață româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573908"
+    },
+    {
+      "english": "Feel Romanian, truly.",
+      "romanian": "Simte românește, cu adevărat.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573909"
+    },
+    {
+      "english": "Make memories, in Romanian.",
+      "romanian": "Creează amintiri, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573910"
+    },
+    {
+      "english": "Navigate easily, with Romanian.",
+      "romanian": "Navighează ușor, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573912"
+    },
+    {
+      "english": "Understand humor, in Romanian.",
+      "romanian": "Înțelege umorul, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573913"
+    },
+    {
+      "english": "Brighten your day, learn Romanian.",
+      "romanian": "Înveselește-ți ziua, învață româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573914"
+    },
+    {
+      "english": "Order wine, with confidence.",
+      "romanian": "Comandă vin, cu încredere.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573915"
+    },
+    {
+      "english": "Discover traditions, in Romanian.",
+      "romanian": "Descoperă tradiții, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573916"
+    },
+    {
+      "english": "Speak from the heart, in Romanian.",
+      "romanian": "Vorbește din suflet, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573917"
+    },
+    {
+      "english": "Your Romanian adventure, awaits.",
+      "romanian": "Aventura ta românească, așteaptă.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573919"
+    },
+    {
+      "english": "Ask for directions, easily.",
+      "romanian": "Cere indicații, ușor.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573920"
+    },
+    {
+      "english": "Read Romanian signs, finally.",
+      "romanian": "Citește indicatoare românești, în sfârșit.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573921"
+    },
+    {
+      "english": "Sing Romanian songs, joyfully.",
+      "romanian": "Cântă cântece românești, vesel.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573922"
+    },
+    {
+      "english": "Embrace Romanian life, fully.",
+      "romanian": "Îmbrățișează viața românească, complet.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573924"
+    },
+    {
+      "english": "Order dinner, with style.",
+      "romanian": "Comandă cina, cu stil.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573925"
+    },
+    {
+      "english": "Understand Romanian jokes, truly.",
+      "romanian": "Înțelege glume românești, cu adevărat.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573926"
+    },
+    {
+      "english": "Become a Romanian speaker, today.",
+      "romanian": "Devino vorbitor de română, azi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573928"
+    },
+    {
+      "english": "Appreciate art, in Romanian.",
+      "romanian": "Apreciază arta, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573929"
+    },
+    {
+      "english": "Share your passion, in Romanian.",
+      "romanian": "Împărtășește-ți pasiunea, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573930"
+    },
+    {
+      "english": "Explore Carpathian trails, speaking Romanian.",
+      "romanian": "Explorează traseele Carpaților, vorbind românește.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573931"
+    },
+    {
+      "english": "Taste delicious food, with Romanian.",
+      "romanian": "Gustă mâncare delicioasă, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573932"
+    },
+    {
+      "english": "Connect with family, in Romanian.",
+      "romanian": "Conectează-te cu familia, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573933"
+    },
+    {
+      "english": "Learn Romanian, make it yours.",
+      "romanian": "Învață româna, fă-o a ta.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573934"
+    },
+    {
+      "english": "Experience Romania, authentically.",
+      "romanian": "Experimentează România, autentic.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573935"
+    },
+    {
+      "english": "Master greetings, start speaking.",
+      "romanian": "Învață saluturi, începe să vorbești.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573937"
+    },
+    {
+      "english": "Unlock Romanian music, with words.",
+      "romanian": "Descoperă muzica românească, cu cuvinte.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573938"
+    },
+    {
+      "english": "Your Romanian adventure, starts now.",
+      "romanian": "Aventura ta românească, începe acum.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573939"
+    },
+    {
+      "english": "Learn Romanian, unlock Romania.",
+      "romanian": "Învață româna, deschide România.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573942"
+    },
+    {
+      "english": "Speak Romanian, connect deeply.",
+      "romanian": "Vorbește româna, conectează-te profund.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573943"
+    },
+    {
+      "english": "Taste Romania, with its words.",
+      "romanian": "Gustă România, cu cuvintele ei.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573944"
+    },
+    {
+      "english": "Understand legends, in Romanian.",
+      "romanian": "Înțelege legende, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573945"
+    },
+    {
+      "english": "Explore history, one word at a time.",
+      "romanian": "Explorează istoria, un cuvânt odată.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573946"
+    },
+    {
+      "english": "Find new friends, speaking Romanian.",
+      "romanian": "Găsește prieteni noi, vorbind românește.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573947"
+    },
+    {
+      "english": "Your Romanian journey, begins now.",
+      "romanian": "Călătoria ta românească, începe acum.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573948"
+    },
+    {
+      "english": "Build bridges, with Romanian.",
+      "romanian": "Construiește punți, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573949"
+    },
+    {
+      "english": "Discover culture, through language.",
+      "romanian": "Descoperă cultura, prin limbă.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573950"
+    },
+    {
+      "english": "Charm locals, with Romanian phrases.",
+      "romanian": "Farmecă localnicii, cu fraze românești.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573951"
+    },
+    {
+      "english": "Travel better, speak Romanian.",
+      "romanian": "Călătorește mai bine, vorbește românește.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573952"
+    },
+    {
+      "english": "Order coffee, like a local.",
+      "romanian": "Comandă cafea, ca un localnic.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573953"
+    },
+    {
+      "english": "Share stories, in Romanian.",
+      "romanian": "Împărtășește povești, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573954"
+    },
+    {
+      "english": "Unlock hidden gems, with Romanian.",
+      "romanian": "Descoperă comori ascunse, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573955"
+    },
+    {
+      "english": "Impress your friends, learn Romanian.",
+      "romanian": "Impresionează-ți prietenii, învață româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573956"
+    },
+    {
+      "english": "Feel Romanian, truly.",
+      "romanian": "Simte românește, cu adevărat.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573957"
+    },
+    {
+      "english": "Make memories, in Romanian.",
+      "romanian": "Creează amintiri, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573958"
+    },
+    {
+      "english": "Navigate easily, with Romanian.",
+      "romanian": "Navighează ușor, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573959"
+    },
+    {
+      "english": "Understand humor, in Romanian.",
+      "romanian": "Înțelege umorul, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573960"
+    },
+    {
+      "english": "Brighten your day, learn Romanian.",
+      "romanian": "Înveselește-ți ziua, învață româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573961"
+    },
+    {
+      "english": "Order wine, with confidence.",
+      "romanian": "Comandă vin, cu încredere.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573962"
+    },
+    {
+      "english": "Discover traditions, in Romanian.",
+      "romanian": "Descoperă tradiții, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573963"
+    },
+    {
+      "english": "Speak from the heart, in Romanian.",
+      "romanian": "Vorbește din suflet, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573966"
+    },
+    {
+      "english": "Your Romanian adventure, awaits.",
+      "romanian": "Aventura ta românească, așteaptă.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573967"
+    },
+    {
+      "english": "Ask for directions, easily.",
+      "romanian": "Cere indicații, ușor.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573968"
+    },
+    {
+      "english": "Read Romanian signs, finally.",
+      "romanian": "Citește indicatoare românești, în sfârșit.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573969"
+    },
+    {
+      "english": "Sing Romanian songs, joyfully.",
+      "romanian": "Cântă cântece românești, vesel.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573970"
+    },
+    {
+      "english": "Embrace Romanian life, fully.",
+      "romanian": "Îmbrățișează viața românească, complet.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573971"
+    },
+    {
+      "english": "Order dinner, with style.",
+      "romanian": "Comandă cina, cu stil.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573972"
+    },
+    {
+      "english": "Understand Romanian jokes, truly.",
+      "romanian": "Înțelege glume românești, cu adevărat.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573973"
+    },
+    {
+      "english": "Become a Romanian speaker, today.",
+      "romanian": "Devino vorbitor de română, azi.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573974"
+    },
+    {
+      "english": "Appreciate art, in Romanian.",
+      "romanian": "Apreciază arta, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573975"
+    },
+    {
+      "english": "Share your passion, in Romanian.",
+      "romanian": "Împărtășește-ți pasiunea, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573977"
+    },
+    {
+      "english": "Explore Carpathian trails, speaking Romanian.",
+      "romanian": "Explorează traseele Carpaților, vorbind românește.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573979"
+    },
+    {
+      "english": "Taste delicious food, with Romanian.",
+      "romanian": "Gustă mâncare delicioasă, cu româna.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573980"
+    },
+    {
+      "english": "Connect with family, in Romanian.",
+      "romanian": "Conectează-te cu familia, în română.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573981"
+    },
+    {
+      "english": "Learn Romanian, make it yours.",
+      "romanian": "Învață româna, fă-o a ta.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573982"
+    },
+    {
+      "english": "Experience Romania, authentically.",
+      "romanian": "Experimentează România, autentic.",
+      "category": "Purpose",
+      "generated_at": "2026-07-15T05:54:24.573983"
+    }
+  ],
+  "last_updated": "2026-07-15T05:54:24.573984"
+}
