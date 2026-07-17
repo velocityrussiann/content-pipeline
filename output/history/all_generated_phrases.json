@@ -1439,7 +1439,727 @@
       "Romanian": "Prietenia, cea mai bună aventură.",
       "category": "Friendship",
       "generated_at": "2026-07-16T04:15:15.463369"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "Romanian": "Fii curajos, încearcă lucruri noi.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862575"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "Romanian": "Vorbește, vocea ta contează.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862586"
+    },
+    {
+      "english": "Take that leap, you can do it.",
+      "Romanian": "Fă saltul, poți reuși.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862588"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "Romanian": "Nu te teme de eșec, învață.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862589"
+    },
+    {
+      "english": "Face challenges head-on, strong.",
+      "Romanian": "Înfruntă provocările, puternic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862590"
+    },
+    {
+      "english": "Trust your gut, be bold.",
+      "Romanian": "Ai încredere în instinct, fii îndrăzneț.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862591"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "Romanian": "Îmbrățișează necunoscutul, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862592"
+    },
+    {
+      "english": "Stand tall, even when scared.",
+      "Romanian": "Stai drept, chiar și speriat.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862594"
+    },
+    {
+      "english": "Your strength is within, find it.",
+      "Romanian": "Forța ta e înăuntru, găsește-o.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862595"
+    },
+    {
+      "english": "Push your limits, grow more.",
+      "Romanian": "Depășește-ți limitele, crește.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862596"
+    },
+    {
+      "english": "Believe in your power, always.",
+      "Romanian": "Crede în puterea ta, mereu.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862597"
+    },
+    {
+      "english": "Start that project, with courage.",
+      "Romanian": "Începe proiectul, cu curaj.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862598"
+    },
+    {
+      "english": "Be a leader, show resolve.",
+      "Romanian": "Fii lider, arată hotărâre.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862598"
+    },
+    {
+      "english": "Overcome your fears, one step.",
+      "Romanian": "Depășește-ți fricile, un pas.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862599"
+    },
+    {
+      "english": "Act now, don't wait, brave.",
+      "Romanian": "Acționează acum, nu aștepta, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862600"
+    },
+    {
+      "english": "Dare to be different, unique.",
+      "Romanian": "Îndrăznește să fii diferit, unic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862601"
+    },
+    {
+      "english": "Face your dragons, with fire.",
+      "Romanian": "Înfruntă-ți dragonii, cu foc.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862601"
+    },
+    {
+      "english": "Be strong, in tough times.",
+      "Romanian": "Fii puternic, în momente grele.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862602"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "Romanian": "Acesta e momentul tău, profită.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862603"
+    },
+    {
+      "english": "Go for your dreams, boldly.",
+      "Romanian": "Mergi spre visele tale, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862604"
+    },
+    {
+      "english": "Rise above, with conviction.",
+      "Romanian": "Ridică-te, cu convingere.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862605"
+    },
+    {
+      "english": "Make the change, be brave.",
+      "Romanian": "Fă schimbarea, fii curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862606"
+    },
+    {
+      "english": "Challenge the norm, fearlessly.",
+      "Romanian": "Provocă norma, fără teamă.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862606"
+    },
+    {
+      "english": "Have guts, pursue your goals.",
+      "Romanian": "Ai curaj, urmărește-ți obiectivele.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862611"
+    },
+    {
+      "english": "Forge ahead, with spirit.",
+      "Romanian": "Mergi înainte, cu spirit.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862612"
+    },
+    {
+      "english": "Speak your truth, it's vital.",
+      "Romanian": "Spune-ți adevărul, e vital.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862613"
+    },
+    {
+      "english": "Be resilient, bounce back.",
+      "Romanian": "Fii rezistent, revino.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862614"
+    },
+    {
+      "english": "Take risks, they lead forward.",
+      "Romanian": "Asumă-ți riscuri, duc înainte.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862614"
+    },
+    {
+      "english": "Show your courage, daily.",
+      "Romanian": "Arată-ți curajul, zilnic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862615"
+    },
+    {
+      "english": "Dare to begin, with faith.",
+      "Romanian": "Îndrăznește să începi, cu credință.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862616"
+    },
+    {
+      "english": "Stand firm, in your beliefs.",
+      "Romanian": "Stai ferm, în convingerile tale.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862617"
+    },
+    {
+      "english": "Be courageous, in action.",
+      "Romanian": "Fii curajos, în acțiune.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862618"
+    },
+    {
+      "english": "Confront your doubts, with might.",
+      "Romanian": "Înfruntă-ți îndoielile, cu putere.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862619"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "Romanian": "Explorează căi noi, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862619"
+    },
+    {
+      "english": "Find your voice, speak out.",
+      "Romanian": "Găsește-ți vocea, vorbește.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862620"
+    },
+    {
+      "english": "Have the nerve, to try.",
+      "Romanian": "Ai tupeul, să încerci.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862621"
+    },
+    {
+      "english": "Act with valor, always.",
+      "Romanian": "Acționează cu vitejie, mereu.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862622"
+    },
+    {
+      "english": "Push boundaries, with spirit.",
+      "Romanian": "Împinge limite, cu spirit.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862623"
+    },
+    {
+      "english": "Embrace change, fearlessly.",
+      "Romanian": "Îmbrățișează schimbarea, fără teamă.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862623"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "Romanian": "Îndrăznește să visezi, mare.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862624"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "Romanian": "Fii curajos, încearcă lucruri noi.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862625"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "Romanian": "Vorbește, vocea ta contează.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862626"
+    },
+    {
+      "english": "Take that leap, you can do it.",
+      "Romanian": "Fă saltul, poți reuși.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862629"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "Romanian": "Nu te teme de eșec, învață.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862630"
+    },
+    {
+      "english": "Face challenges head-on, strong.",
+      "Romanian": "Înfruntă provocările, puternic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862631"
+    },
+    {
+      "english": "Trust your gut, be bold.",
+      "Romanian": "Ai încredere în instinct, fii îndrăzneț.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862631"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "Romanian": "Îmbrățișează necunoscutul, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862632"
+    },
+    {
+      "english": "Stand tall, even when scared.",
+      "Romanian": "Stai drept, chiar și speriat.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862633"
+    },
+    {
+      "english": "Your strength is within, find it.",
+      "Romanian": "Forța ta e înăuntru, găsește-o.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862634"
+    },
+    {
+      "english": "Push your limits, grow more.",
+      "Romanian": "Depășește-ți limitele, crește.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862635"
+    },
+    {
+      "english": "Believe in your power, always.",
+      "Romanian": "Crede în puterea ta, mereu.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862635"
+    },
+    {
+      "english": "Start that project, with courage.",
+      "Romanian": "Începe proiectul, cu curaj.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862636"
+    },
+    {
+      "english": "Be a leader, show resolve.",
+      "Romanian": "Fii lider, arată hotărâre.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862637"
+    },
+    {
+      "english": "Overcome your fears, one step.",
+      "Romanian": "Depășește-ți fricile, un pas.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862638"
+    },
+    {
+      "english": "Act now, don't wait, brave.",
+      "Romanian": "Acționează acum, nu aștepta, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862639"
+    },
+    {
+      "english": "Dare to be different, unique.",
+      "Romanian": "Îndrăznește să fii diferit, unic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862641"
+    },
+    {
+      "english": "Face your dragons, with fire.",
+      "Romanian": "Înfruntă-ți dragonii, cu foc.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862642"
+    },
+    {
+      "english": "Be strong, in tough times.",
+      "Romanian": "Fii puternic, în momente grele.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862643"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "Romanian": "Acesta e momentul tău, profită.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862643"
+    },
+    {
+      "english": "Go for your dreams, boldly.",
+      "Romanian": "Mergi spre visele tale, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862644"
+    },
+    {
+      "english": "Rise above, with conviction.",
+      "Romanian": "Ridică-te, cu convingere.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862645"
+    },
+    {
+      "english": "Make the change, be brave.",
+      "Romanian": "Fă schimbarea, fii curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862646"
+    },
+    {
+      "english": "Challenge the norm, fearlessly.",
+      "Romanian": "Provocă norma, fără teamă.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862647"
+    },
+    {
+      "english": "Have guts, pursue your goals.",
+      "Romanian": "Ai curaj, urmărește-ți obiectivele.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862647"
+    },
+    {
+      "english": "Forge ahead, with spirit.",
+      "Romanian": "Mergi înainte, cu spirit.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862648"
+    },
+    {
+      "english": "Speak your truth, it's vital.",
+      "Romanian": "Spune-ți adevărul, e vital.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862649"
+    },
+    {
+      "english": "Be resilient, bounce back.",
+      "Romanian": "Fii rezistent, revino.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862650"
+    },
+    {
+      "english": "Take risks, they lead forward.",
+      "Romanian": "Asumă-ți riscuri, duc înainte.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862650"
+    },
+    {
+      "english": "Show your courage, daily.",
+      "Romanian": "Arată-ți curajul, zilnic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862651"
+    },
+    {
+      "english": "Dare to begin, with faith.",
+      "Romanian": "Îndrăznește să începi, cu credință.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862652"
+    },
+    {
+      "english": "Stand firm, in your beliefs.",
+      "Romanian": "Stai ferm, în convingerile tale.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862653"
+    },
+    {
+      "english": "Be courageous, in action.",
+      "Romanian": "Fii curajos, în acțiune.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862654"
+    },
+    {
+      "english": "Confront your doubts, with might.",
+      "Romanian": "Înfruntă-ți îndoielile, cu putere.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862655"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "Romanian": "Explorează căi noi, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862655"
+    },
+    {
+      "english": "Find your voice, speak out.",
+      "Romanian": "Găsește-ți vocea, vorbește.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862656"
+    },
+    {
+      "english": "Have the nerve, to try.",
+      "Romanian": "Ai tupeul, să încerci.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862657"
+    },
+    {
+      "english": "Act with valor, always.",
+      "Romanian": "Acționează cu vitejie, mereu.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862658"
+    },
+    {
+      "english": "Push boundaries, with spirit.",
+      "Romanian": "Împinge limite, cu spirit.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862658"
+    },
+    {
+      "english": "Embrace change, fearlessly.",
+      "Romanian": "Îmbrățișează schimbarea, fără teamă.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862659"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "Romanian": "Îndrăznește să visezi, mare.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862660"
+    },
+    {
+      "english": "Be brave, try new things.",
+      "Romanian": "Fii curajos, încearcă lucruri noi.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862660"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "Romanian": "Vorbește, vocea ta contează.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862661"
+    },
+    {
+      "english": "Take that leap, you can do it.",
+      "Romanian": "Fă saltul, poți reuși.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862662"
+    },
+    {
+      "english": "Don't fear failure, learn from it.",
+      "Romanian": "Nu te teme de eșec, învață.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862662"
+    },
+    {
+      "english": "Face challenges head-on, strong.",
+      "Romanian": "Înfruntă provocările, puternic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862663"
+    },
+    {
+      "english": "Trust your gut, be bold.",
+      "Romanian": "Ai încredere în instinct, fii îndrăzneț.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862664"
+    },
+    {
+      "english": "Embrace the unknown, bravely.",
+      "Romanian": "Îmbrățișează necunoscutul, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862664"
+    },
+    {
+      "english": "Stand tall, even when scared.",
+      "Romanian": "Stai drept, chiar și speriat.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862667"
+    },
+    {
+      "english": "Your strength is within, find it.",
+      "Romanian": "Forța ta e înăuntru, găsește-o.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862668"
+    },
+    {
+      "english": "Push your limits, grow more.",
+      "Romanian": "Depășește-ți limitele, crește.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862668"
+    },
+    {
+      "english": "Believe in your power, always.",
+      "Romanian": "Crede în puterea ta, mereu.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862669"
+    },
+    {
+      "english": "Start that project, with courage.",
+      "Romanian": "Începe proiectul, cu curaj.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862670"
+    },
+    {
+      "english": "Be a leader, show resolve.",
+      "Romanian": "Fii lider, arată hotărâre.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862672"
+    },
+    {
+      "english": "Overcome your fears, one step.",
+      "Romanian": "Depășește-ți fricile, un pas.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862673"
+    },
+    {
+      "english": "Act now, don't wait, brave.",
+      "Romanian": "Acționează acum, nu aștepta, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862674"
+    },
+    {
+      "english": "Dare to be different, unique.",
+      "Romanian": "Îndrăznește să fii diferit, unic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862674"
+    },
+    {
+      "english": "Face your dragons, with fire.",
+      "Romanian": "Înfruntă-ți dragonii, cu foc.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862675"
+    },
+    {
+      "english": "Be strong, in tough times.",
+      "Romanian": "Fii puternic, în momente grele.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862676"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "Romanian": "Acesta e momentul tău, profită.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862676"
+    },
+    {
+      "english": "Go for your dreams, boldly.",
+      "Romanian": "Mergi spre visele tale, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862677"
+    },
+    {
+      "english": "Rise above, with conviction.",
+      "Romanian": "Ridică-te, cu convingere.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862678"
+    },
+    {
+      "english": "Make the change, be brave.",
+      "Romanian": "Fă schimbarea, fii curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862679"
+    },
+    {
+      "english": "Challenge the norm, fearlessly.",
+      "Romanian": "Provocă norma, fără teamă.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862679"
+    },
+    {
+      "english": "Have guts, pursue your goals.",
+      "Romanian": "Ai curaj, urmărește-ți obiectivele.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862680"
+    },
+    {
+      "english": "Forge ahead, with spirit.",
+      "Romanian": "Mergi înainte, cu spirit.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862681"
+    },
+    {
+      "english": "Speak your truth, it's vital.",
+      "Romanian": "Spune-ți adevărul, e vital.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862681"
+    },
+    {
+      "english": "Be resilient, bounce back.",
+      "Romanian": "Fii rezistent, revino.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862682"
+    },
+    {
+      "english": "Take risks, they lead forward.",
+      "Romanian": "Asumă-ți riscuri, duc înainte.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862683"
+    },
+    {
+      "english": "Show your courage, daily.",
+      "Romanian": "Arată-ți curajul, zilnic.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862684"
+    },
+    {
+      "english": "Dare to begin, with faith.",
+      "Romanian": "Îndrăznește să începi, cu credință.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862684"
+    },
+    {
+      "english": "Stand firm, in your beliefs.",
+      "Romanian": "Stai ferm, în convingerile tale.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862685"
+    },
+    {
+      "english": "Be courageous, in action.",
+      "Romanian": "Fii curajos, în acțiune.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862686"
+    },
+    {
+      "english": "Confront your doubts, with might.",
+      "Romanian": "Înfruntă-ți îndoielile, cu putere.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862686"
+    },
+    {
+      "english": "Explore new paths, bravely.",
+      "Romanian": "Explorează căi noi, curajos.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862687"
+    },
+    {
+      "english": "Find your voice, speak out.",
+      "Romanian": "Găsește-ți vocea, vorbește.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862688"
+    },
+    {
+      "english": "Have the nerve, to try.",
+      "Romanian": "Ai tupeul, să încerci.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862689"
+    },
+    {
+      "english": "Act with valor, always.",
+      "Romanian": "Acționează cu vitejie, mereu.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862690"
+    },
+    {
+      "english": "Push boundaries, with spirit.",
+      "Romanian": "Împinge limite, cu spirit.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862690"
+    },
+    {
+      "english": "Embrace change, fearlessly.",
+      "Romanian": "Îmbrățișează schimbarea, fără teamă.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862691"
+    },
+    {
+      "english": "Dare to dream, big.",
+      "Romanian": "Îndrăznește să visezi, mare.",
+      "category": "Courage",
+      "generated_at": "2026-07-17T04:15:37.862694"
     }
   ],
-  "last_updated": "2026-07-16T04:15:15.463371"
+  "last_updated": "2026-07-17T04:15:37.862695"
 }
