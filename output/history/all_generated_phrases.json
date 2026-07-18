@@ -2159,7 +2159,727 @@
       "Romanian": "Îndrăznește să visezi, mare.",
       "category": "Courage",
       "generated_at": "2026-07-17T04:15:37.862694"
+    },
+    {
+      "english": "Keep going, even when tired.",
+      "Romanian": "Continuă, chiar obosit.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688075"
+    },
+    {
+      "english": "Small steps, big results.",
+      "Romanian": "Pași mici, rezultate mari.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688082"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "Romanian": "Nu renunța, încearcă iar.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688083"
+    },
+    {
+      "english": "Learn from every mistake.",
+      "Romanian": "Învață din greșeală.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688085"
+    },
+    {
+      "english": "Your effort matters, truly.",
+      "Romanian": "Efortul tău contează.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688086"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "Romanian": "Rămâi concentrat, țintești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688088"
+    },
+    {
+      "english": "Push through, every challenge.",
+      "Romanian": "Treci peste, orice greu.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688089"
+    },
+    {
+      "english": "Consistency is your strength.",
+      "Romanian": "Consecvența e puterea.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688096"
+    },
+    {
+      "english": "Keep pushing, you're close.",
+      "Romanian": "Împinge înainte, aproape.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688097"
+    },
+    {
+      "english": "Never stop believing, yourself.",
+      "Romanian": "Nu te opri din credință.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688099"
+    },
+    {
+      "english": "Your journey, keep moving.",
+      "Romanian": "Drumul tău, mergi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688100"
+    },
+    {
+      "english": "A little more, you can.",
+      "Romanian": "Puțin mai mult, poți.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688101"
+    },
+    {
+      "english": "Work harder, then harder.",
+      "Romanian": "Muncește mai mult, tare.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688103"
+    },
+    {
+      "english": "Don't quit, just adjust.",
+      "Romanian": "Nu renunța, doar ajustezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688104"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "Romanian": "Progres, nu perfecțiune.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688105"
+    },
+    {
+      "english": "Endure the struggle, for growth.",
+      "Romanian": "Suportă lupta, crești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688106"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "Romanian": "Păstrează focul, arzând.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688107"
+    },
+    {
+      "english": "One more try, then see.",
+      "Romanian": "Încă o încercare, vezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688108"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "Romanian": "Ești mai tare, decât crezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688110"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "Romanian": "Acceptă procesul, cu calm.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688111"
+    },
+    {
+      "english": "Fight for what, you want.",
+      "Romanian": "Luptă pentru ce vrei.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688112"
+    },
+    {
+      "english": "Your grit, will pay off.",
+      "Romanian": "Curajul tău, va merge.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688113"
+    },
+    {
+      "english": "Keep digging, for success.",
+      "Romanian": "Săpă mai adânc, reușești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688114"
+    },
+    {
+      "english": "Strive forward, always.",
+      "Romanian": "Avântează-te, mereu.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688115"
+    },
+    {
+      "english": "Hold on, almost there.",
+      "Romanian": "Ține tare, aproape e.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688116"
+    },
+    {
+      "english": "Never surrender, your dream.",
+      "Romanian": "Nu preda visul, tău.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688117"
+    },
+    {
+      "english": "Be persistent, in your efforts.",
+      "Romanian": "Fii statornic, în tot.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688118"
+    },
+    {
+      "english": "Keep adapting, to changes.",
+      "Romanian": "Adaptează-te, schimbării.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688119"
+    },
+    {
+      "english": "Your endurance, is key.",
+      "Romanian": "Rezistența ta, e cheia.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688120"
+    },
+    {
+      "english": "Go the extra mile.",
+      "Romanian": "Mergi și mai departe.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688121"
+    },
+    {
+      "english": "Don't stop, till finished.",
+      "Romanian": "Nu te opri, finit.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688122"
+    },
+    {
+      "english": "You can do this, really.",
+      "Romanian": "Poți face asta, sigur.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688123"
+    },
+    {
+      "english": "Persist, and you'll win.",
+      "Romanian": "Perseveră, vei câștiga.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688124"
+    },
+    {
+      "english": "Keep your head, up high.",
+      "Romanian": "Ține capul, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688125"
+    },
+    {
+      "english": "Believe in the long run.",
+      "Romanian": "Crede-n drum lung.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688126"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Romanian": "Lent și constant, câștigă.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688127"
+    },
+    {
+      "english": "Your spirit, will carry you.",
+      "Romanian": "Spiritul tău, te duce.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688128"
+    },
+    {
+      "english": "Never look back, keep moving.",
+      "Romanian": "Nu privi înapoi, mergi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688129"
+    },
+    {
+      "english": "Keep trying, each day.",
+      "Romanian": "Încearcă zilnic.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688132"
+    },
+    {
+      "english": "Your effort, builds success.",
+      "Romanian": "Efortul construiește.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688133"
+    },
+    {
+      "english": "Keep going, even when tired.",
+      "Romanian": "Continuă, chiar obosit.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688135"
+    },
+    {
+      "english": "Small steps, big results.",
+      "Romanian": "Pași mici, rezultate mari.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688136"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "Romanian": "Nu renunța, încearcă iar.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688138"
+    },
+    {
+      "english": "Learn from every mistake.",
+      "Romanian": "Învață din greșeală.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688139"
+    },
+    {
+      "english": "Your effort matters, truly.",
+      "Romanian": "Efortul tău contează.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688140"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "Romanian": "Rămâi concentrat, țintești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688141"
+    },
+    {
+      "english": "Push through, every challenge.",
+      "Romanian": "Treci peste, orice greu.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688142"
+    },
+    {
+      "english": "Consistency is your strength.",
+      "Romanian": "Consecvența e puterea.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688143"
+    },
+    {
+      "english": "Keep pushing, you're close.",
+      "Romanian": "Împinge înainte, aproape.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688144"
+    },
+    {
+      "english": "Never stop believing, yourself.",
+      "Romanian": "Nu te opri din credință.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688145"
+    },
+    {
+      "english": "Your journey, keep moving.",
+      "Romanian": "Drumul tău, mergi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688146"
+    },
+    {
+      "english": "A little more, you can.",
+      "Romanian": "Puțin mai mult, poți.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688147"
+    },
+    {
+      "english": "Work harder, then harder.",
+      "Romanian": "Muncește mai mult, tare.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688148"
+    },
+    {
+      "english": "Don't quit, just adjust.",
+      "Romanian": "Nu renunța, doar ajustezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688149"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "Romanian": "Progres, nu perfecțiune.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688150"
+    },
+    {
+      "english": "Endure the struggle, for growth.",
+      "Romanian": "Suportă lupta, crești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688151"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "Romanian": "Păstrează focul, arzând.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688152"
+    },
+    {
+      "english": "One more try, then see.",
+      "Romanian": "Încă o încercare, vezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688153"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "Romanian": "Ești mai tare, decât crezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688154"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "Romanian": "Acceptă procesul, cu calm.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688155"
+    },
+    {
+      "english": "Fight for what, you want.",
+      "Romanian": "Luptă pentru ce vrei.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688156"
+    },
+    {
+      "english": "Your grit, will pay off.",
+      "Romanian": "Curajul tău, va merge.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688157"
+    },
+    {
+      "english": "Keep digging, for success.",
+      "Romanian": "Săpă mai adânc, reușești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688158"
+    },
+    {
+      "english": "Strive forward, always.",
+      "Romanian": "Avântează-te, mereu.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688159"
+    },
+    {
+      "english": "Hold on, almost there.",
+      "Romanian": "Ține tare, aproape e.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688160"
+    },
+    {
+      "english": "Never surrender, your dream.",
+      "Romanian": "Nu preda visul, tău.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688161"
+    },
+    {
+      "english": "Be persistent, in your efforts.",
+      "Romanian": "Fii statornic, în tot.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688162"
+    },
+    {
+      "english": "Keep adapting, to changes.",
+      "Romanian": "Adaptează-te, schimbării.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688163"
+    },
+    {
+      "english": "Your endurance, is key.",
+      "Romanian": "Rezistența ta, e cheia.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688164"
+    },
+    {
+      "english": "Go the extra mile.",
+      "Romanian": "Mergi și mai departe.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688165"
+    },
+    {
+      "english": "Don't stop, till finished.",
+      "Romanian": "Nu te opri, finit.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688168"
+    },
+    {
+      "english": "You can do this, really.",
+      "Romanian": "Poți face asta, sigur.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688169"
+    },
+    {
+      "english": "Persist, and you'll win.",
+      "Romanian": "Perseveră, vei câștiga.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688170"
+    },
+    {
+      "english": "Keep your head, up high.",
+      "Romanian": "Ține capul, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688172"
+    },
+    {
+      "english": "Believe in the long run.",
+      "Romanian": "Crede-n drum lung.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688173"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Romanian": "Lent și constant, câștigă.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688174"
+    },
+    {
+      "english": "Your spirit, will carry you.",
+      "Romanian": "Spiritul tău, te duce.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688175"
+    },
+    {
+      "english": "Never look back, keep moving.",
+      "Romanian": "Nu privi înapoi, mergi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688176"
+    },
+    {
+      "english": "Keep trying, each day.",
+      "Romanian": "Încearcă zilnic.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688177"
+    },
+    {
+      "english": "Your effort, builds success.",
+      "Romanian": "Efortul construiește.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688178"
+    },
+    {
+      "english": "Keep going, even when tired.",
+      "Romanian": "Continuă, chiar obosit.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688179"
+    },
+    {
+      "english": "Small steps, big results.",
+      "Romanian": "Pași mici, rezultate mari.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688180"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "Romanian": "Nu renunța, încearcă iar.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688181"
+    },
+    {
+      "english": "Learn from every mistake.",
+      "Romanian": "Învață din greșeală.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688182"
+    },
+    {
+      "english": "Your effort matters, truly.",
+      "Romanian": "Efortul tău contează.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688183"
+    },
+    {
+      "english": "Stay focused, on your goal.",
+      "Romanian": "Rămâi concentrat, țintești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688184"
+    },
+    {
+      "english": "Push through, every challenge.",
+      "Romanian": "Treci peste, orice greu.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688185"
+    },
+    {
+      "english": "Consistency is your strength.",
+      "Romanian": "Consecvența e puterea.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688186"
+    },
+    {
+      "english": "Keep pushing, you're close.",
+      "Romanian": "Împinge înainte, aproape.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688187"
+    },
+    {
+      "english": "Never stop believing, yourself.",
+      "Romanian": "Nu te opri din credință.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688188"
+    },
+    {
+      "english": "Your journey, keep moving.",
+      "Romanian": "Drumul tău, mergi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688189"
+    },
+    {
+      "english": "A little more, you can.",
+      "Romanian": "Puțin mai mult, poți.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688190"
+    },
+    {
+      "english": "Work harder, then harder.",
+      "Romanian": "Muncește mai mult, tare.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688191"
+    },
+    {
+      "english": "Don't quit, just adjust.",
+      "Romanian": "Nu renunța, doar ajustezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688192"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "Romanian": "Progres, nu perfecțiune.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688193"
+    },
+    {
+      "english": "Endure the struggle, for growth.",
+      "Romanian": "Suportă lupta, crești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688194"
+    },
+    {
+      "english": "Keep that fire, burning.",
+      "Romanian": "Păstrează focul, arzând.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688195"
+    },
+    {
+      "english": "One more try, then see.",
+      "Romanian": "Încă o încercare, vezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688196"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "Romanian": "Ești mai tare, decât crezi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688197"
+    },
+    {
+      "english": "Embrace the process, patiently.",
+      "Romanian": "Acceptă procesul, cu calm.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688198"
+    },
+    {
+      "english": "Fight for what, you want.",
+      "Romanian": "Luptă pentru ce vrei.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688199"
+    },
+    {
+      "english": "Your grit, will pay off.",
+      "Romanian": "Curajul tău, va merge.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688200"
+    },
+    {
+      "english": "Keep digging, for success.",
+      "Romanian": "Săpă mai adânc, reușești.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688203"
+    },
+    {
+      "english": "Strive forward, always.",
+      "Romanian": "Avântează-te, mereu.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688204"
+    },
+    {
+      "english": "Hold on, almost there.",
+      "Romanian": "Ține tare, aproape e.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688205"
+    },
+    {
+      "english": "Never surrender, your dream.",
+      "Romanian": "Nu preda visul, tău.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688206"
+    },
+    {
+      "english": "Be persistent, in your efforts.",
+      "Romanian": "Fii statornic, în tot.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688207"
+    },
+    {
+      "english": "Keep adapting, to changes.",
+      "Romanian": "Adaptează-te, schimbării.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688208"
+    },
+    {
+      "english": "Your endurance, is key.",
+      "Romanian": "Rezistența ta, e cheia.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688209"
+    },
+    {
+      "english": "Go the extra mile.",
+      "Romanian": "Mergi și mai departe.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688210"
+    },
+    {
+      "english": "Don't stop, till finished.",
+      "Romanian": "Nu te opri, finit.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688211"
+    },
+    {
+      "english": "You can do this, really.",
+      "Romanian": "Poți face asta, sigur.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688212"
+    },
+    {
+      "english": "Persist, and you'll win.",
+      "Romanian": "Perseveră, vei câștiga.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688213"
+    },
+    {
+      "english": "Keep your head, up high.",
+      "Romanian": "Ține capul, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688214"
+    },
+    {
+      "english": "Believe in the long run.",
+      "Romanian": "Crede-n drum lung.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688215"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "Romanian": "Lent și constant, câștigă.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688216"
+    },
+    {
+      "english": "Your spirit, will carry you.",
+      "Romanian": "Spiritul tău, te duce.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688217"
+    },
+    {
+      "english": "Never look back, keep moving.",
+      "Romanian": "Nu privi înapoi, mergi.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688218"
+    },
+    {
+      "english": "Keep trying, each day.",
+      "Romanian": "Încearcă zilnic.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688219"
+    },
+    {
+      "english": "Your effort, builds success.",
+      "Romanian": "Efortul construiește.",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:57:14.688220"
     }
   ],
-  "last_updated": "2026-07-17T04:15:37.862695"
+  "last_updated": "2026-07-18T03:57:14.688222"
 }
