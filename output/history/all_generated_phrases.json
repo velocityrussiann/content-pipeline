@@ -5759,7 +5759,727 @@
       "Romanian": "O voință puternică, îți modelează destinul.",
       "category": "Strength",
       "generated_at": "2026-07-23T04:17:22.465310"
+    },
+    {
+      "english": "You can, speak Romanian, with practice.",
+      "Romanian": "Poți, vorbi română, cu exercițiu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228303"
+    },
+    {
+      "english": "Romanian sounds, like music, sometimes.",
+      "Romanian": "Româna sună, ca muzica, uneori.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228316"
+    },
+    {
+      "english": "Small words, make, big differences.",
+      "Romanian": "Cuvinte mici, fac, diferențe mari.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228318"
+    },
+    {
+      "english": "You are learning, faster, than you think.",
+      "Romanian": "Înveți, mai repede, decât crezi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228319"
+    },
+    {
+      "english": "Every mistake, helps you improve.",
+      "Romanian": "Fiecare greșeală, te ajută.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228320"
+    },
+    {
+      "english": "Your accent, is part, of your story.",
+      "Romanian": "Accentul tău, e parte, din povestea ta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228321"
+    },
+    {
+      "english": "Speaking Romanian, opens, new doors.",
+      "Romanian": "A vorbi română, deschide, uși noi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228323"
+    },
+    {
+      "english": "You can understand, more, than before.",
+      "Romanian": "Înțelegi, mai mult, decât înainte.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228326"
+    },
+    {
+      "english": "Confidence grows, with each sentence.",
+      "Romanian": "Încrederea crește, cu fiecare propoziție.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228328"
+    },
+    {
+      "english": "You are strong, enough, to learn this.",
+      "Romanian": "Ești puternic, suficient, să înveți asta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228329"
+    },
+    {
+      "english": "Discover Romania, one word, at a time.",
+      "Romanian": "Descoperă România, un cuvânt, pe rând.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228331"
+    },
+    {
+      "english": "Your brain, is amazing, at languages.",
+      "Romanian": "Creierul tău, e uimitor, la limbi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228332"
+    },
+    {
+      "english": "You can do, this, it's true.",
+      "Romanian": "Poți face, asta, e adevărat.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228333"
+    },
+    {
+      "english": "Speak like a local, is a journey.",
+      "Romanian": "A vorbi ca un localnic, e un drum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228336"
+    },
+    {
+      "english": "Your progress, is visible, every day.",
+      "Romanian": "Progresul tău, e vizibil, zilnic.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228337"
+    },
+    {
+      "english": "Curiosity, unlocks, Romanian fluency.",
+      "Romanian": "Curiozitatea, deblochează, fluența în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228338"
+    },
+    {
+      "english": "You are more, capable, than you know.",
+      "Romanian": "Ești mai capabil, decât știi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228339"
+    },
+    {
+      "english": "New sounds, are just, new friends.",
+      "Romanian": "Sunete noi, sunt doar, prieteni noi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228340"
+    },
+    {
+      "english": "Embrace the challenge, of Romanian.",
+      "Romanian": "Îmbrățișează provocarea, limbii române.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228342"
+    },
+    {
+      "english": "You can express, yourself, in Romanian.",
+      "Romanian": "Te poți exprima, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228343"
+    },
+    {
+      "english": "Romanian culture, waits, for you.",
+      "Romanian": "Cultura română, te așteaptă.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228344"
+    },
+    {
+      "english": "Keep speaking, don't hold back.",
+      "Romanian": "Continuă să vorbești, nu te opri.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228345"
+    },
+    {
+      "english": "Your efforts, are truly, worth it.",
+      "Romanian": "Eforturile tale, merită, cu siguranță.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228346"
+    },
+    {
+      "english": "From beginner, to speaker, is a path.",
+      "Romanian": "De la începător, la vorbitor, e un drum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228347"
+    },
+    {
+      "english": "You can understand, Romanian movies.",
+      "Romanian": "Poți înțelege, filme românești.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228348"
+    },
+    {
+      "english": "Say it loud, say it proud.",
+      "Romanian": "Spune tare, spune cu mândrie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228349"
+    },
+    {
+      "english": "This language, is your new skill.",
+      "Romanian": "Această limbă, e noua ta abilitate.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228350"
+    },
+    {
+      "english": "You will surprise, yourself, with fluency.",
+      "Romanian": "Te vei mira, pe tine însuți, de fluență.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228351"
+    },
+    {
+      "english": "Little by little, mastery comes.",
+      "Romanian": "Încet, încet, stăpânirea vine.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228352"
+    },
+    {
+      "english": "You can order coffee, in Romanian.",
+      "Romanian": "Poți comanda cafea, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228353"
+    },
+    {
+      "english": "Your Romanian, gets better, daily.",
+      "Romanian": "Româna ta, se îmbunătățește, zilnic.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228354"
+    },
+    {
+      "english": "You are building, a new connection.",
+      "Romanian": "Construiești, o nouă conexiune.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228355"
+    },
+    {
+      "english": "This knowledge, is power.",
+      "Romanian": "Această cunoaștere, e putere.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228356"
+    },
+    {
+      "english": "You are a Romanian speaker, now.",
+      "Romanian": "Ești un vorbitor, de română, acum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228357"
+    },
+    {
+      "english": "Romanian words, are your tools.",
+      "Romanian": "Cuvintele românești, sunt uneltele tale.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228358"
+    },
+    {
+      "english": "Embrace the learning, enjoy the process.",
+      "Romanian": "Acceptă învățarea, bucură-te de proces.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228359"
+    },
+    {
+      "english": "You can tell stories, in Romanian.",
+      "Romanian": "Poți spune povești, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228360"
+    },
+    {
+      "english": "Your voice, matters, in this language.",
+      "Romanian": "Vocea ta, contează, în această limbă.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228361"
+    },
+    {
+      "english": "Success in Romanian, starts here.",
+      "Romanian": "Succesul în română, începe aici.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228362"
+    },
+    {
+      "english": "You can, speak Romanian, with practice.",
+      "Romanian": "Poți, vorbi română, cu exercițiu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228363"
+    },
+    {
+      "english": "Romanian sounds, like music, sometimes.",
+      "Romanian": "Româna sună, ca muzica, uneori.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228364"
+    },
+    {
+      "english": "Small words, make, big differences.",
+      "Romanian": "Cuvinte mici, fac, diferențe mari.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228365"
+    },
+    {
+      "english": "You are learning, faster, than you think.",
+      "Romanian": "Înveți, mai repede, decât crezi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228367"
+    },
+    {
+      "english": "Every mistake, helps you improve.",
+      "Romanian": "Fiecare greșeală, te ajută.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228368"
+    },
+    {
+      "english": "Your accent, is part, of your story.",
+      "Romanian": "Accentul tău, e parte, din povestea ta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228368"
+    },
+    {
+      "english": "Speaking Romanian, opens, new doors.",
+      "Romanian": "A vorbi română, deschide, uși noi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228369"
+    },
+    {
+      "english": "You can understand, more, than before.",
+      "Romanian": "Înțelegi, mai mult, decât înainte.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228370"
+    },
+    {
+      "english": "Confidence grows, with each sentence.",
+      "Romanian": "Încrederea crește, cu fiecare propoziție.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228371"
+    },
+    {
+      "english": "You are strong, enough, to learn this.",
+      "Romanian": "Ești puternic, suficient, să înveți asta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228372"
+    },
+    {
+      "english": "Discover Romania, one word, at a time.",
+      "Romanian": "Descoperă România, un cuvânt, pe rând.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228373"
+    },
+    {
+      "english": "Your brain, is amazing, at languages.",
+      "Romanian": "Creierul tău, e uimitor, la limbi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228374"
+    },
+    {
+      "english": "You can do, this, it's true.",
+      "Romanian": "Poți face, asta, e adevărat.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228375"
+    },
+    {
+      "english": "Speak like a local, is a journey.",
+      "Romanian": "A vorbi ca un localnic, e un drum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228376"
+    },
+    {
+      "english": "Your progress, is visible, every day.",
+      "Romanian": "Progresul tău, e vizibil, zilnic.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228377"
+    },
+    {
+      "english": "Curiosity, unlocks, Romanian fluency.",
+      "Romanian": "Curiozitatea, deblochează, fluența în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228378"
+    },
+    {
+      "english": "You are more, capable, than you know.",
+      "Romanian": "Ești mai capabil, decât știi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228379"
+    },
+    {
+      "english": "New sounds, are just, new friends.",
+      "Romanian": "Sunete noi, sunt doar, prieteni noi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228380"
+    },
+    {
+      "english": "Embrace the challenge, of Romanian.",
+      "Romanian": "Îmbrățișează provocarea, limbii române.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228381"
+    },
+    {
+      "english": "You can express, yourself, in Romanian.",
+      "Romanian": "Te poți exprima, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228382"
+    },
+    {
+      "english": "Romanian culture, waits, for you.",
+      "Romanian": "Cultura română, te așteaptă.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228383"
+    },
+    {
+      "english": "Keep speaking, don't hold back.",
+      "Romanian": "Continuă să vorbești, nu te opri.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228384"
+    },
+    {
+      "english": "Your efforts, are truly, worth it.",
+      "Romanian": "Eforturile tale, merită, cu siguranță.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228385"
+    },
+    {
+      "english": "From beginner, to speaker, is a path.",
+      "Romanian": "De la începător, la vorbitor, e un drum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228386"
+    },
+    {
+      "english": "You can understand, Romanian movies.",
+      "Romanian": "Poți înțelege, filme românești.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228387"
+    },
+    {
+      "english": "Say it loud, say it proud.",
+      "Romanian": "Spune tare, spune cu mândrie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228388"
+    },
+    {
+      "english": "This language, is your new skill.",
+      "Romanian": "Această limbă, e noua ta abilitate.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228389"
+    },
+    {
+      "english": "You will surprise, yourself, with fluency.",
+      "Romanian": "Te vei mira, pe tine însuți, de fluență.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228390"
+    },
+    {
+      "english": "Little by little, mastery comes.",
+      "Romanian": "Încet, încet, stăpânirea vine.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228391"
+    },
+    {
+      "english": "You can order coffee, in Romanian.",
+      "Romanian": "Poți comanda cafea, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228392"
+    },
+    {
+      "english": "Your Romanian, gets better, daily.",
+      "Romanian": "Româna ta, se îmbunătățește, zilnic.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228393"
+    },
+    {
+      "english": "You are building, a new connection.",
+      "Romanian": "Construiești, o nouă conexiune.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228394"
+    },
+    {
+      "english": "This knowledge, is power.",
+      "Romanian": "Această cunoaștere, e putere.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228395"
+    },
+    {
+      "english": "You are a Romanian speaker, now.",
+      "Romanian": "Ești un vorbitor, de română, acum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228396"
+    },
+    {
+      "english": "Romanian words, are your tools.",
+      "Romanian": "Cuvintele românești, sunt uneltele tale.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228397"
+    },
+    {
+      "english": "Embrace the learning, enjoy the process.",
+      "Romanian": "Acceptă învățarea, bucură-te de proces.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228398"
+    },
+    {
+      "english": "You can tell stories, in Romanian.",
+      "Romanian": "Poți spune povești, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228398"
+    },
+    {
+      "english": "Your voice, matters, in this language.",
+      "Romanian": "Vocea ta, contează, în această limbă.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228399"
+    },
+    {
+      "english": "Success in Romanian, starts here.",
+      "Romanian": "Succesul în română, începe aici.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228400"
+    },
+    {
+      "english": "You can, speak Romanian, with practice.",
+      "Romanian": "Poți, vorbi română, cu exercițiu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228402"
+    },
+    {
+      "english": "Romanian sounds, like music, sometimes.",
+      "Romanian": "Româna sună, ca muzica, uneori.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228403"
+    },
+    {
+      "english": "Small words, make, big differences.",
+      "Romanian": "Cuvinte mici, fac, diferențe mari.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228404"
+    },
+    {
+      "english": "You are learning, faster, than you think.",
+      "Romanian": "Înveți, mai repede, decât crezi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228405"
+    },
+    {
+      "english": "Every mistake, helps you improve.",
+      "Romanian": "Fiecare greșeală, te ajută.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228406"
+    },
+    {
+      "english": "Your accent, is part, of your story.",
+      "Romanian": "Accentul tău, e parte, din povestea ta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228407"
+    },
+    {
+      "english": "Speaking Romanian, opens, new doors.",
+      "Romanian": "A vorbi română, deschide, uși noi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228408"
+    },
+    {
+      "english": "You can understand, more, than before.",
+      "Romanian": "Înțelegi, mai mult, decât înainte.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228409"
+    },
+    {
+      "english": "Confidence grows, with each sentence.",
+      "Romanian": "Încrederea crește, cu fiecare propoziție.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228410"
+    },
+    {
+      "english": "You are strong, enough, to learn this.",
+      "Romanian": "Ești puternic, suficient, să înveți asta.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228411"
+    },
+    {
+      "english": "Discover Romania, one word, at a time.",
+      "Romanian": "Descoperă România, un cuvânt, pe rând.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228412"
+    },
+    {
+      "english": "Your brain, is amazing, at languages.",
+      "Romanian": "Creierul tău, e uimitor, la limbi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228413"
+    },
+    {
+      "english": "You can do, this, it's true.",
+      "Romanian": "Poți face, asta, e adevărat.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228414"
+    },
+    {
+      "english": "Speak like a local, is a journey.",
+      "Romanian": "A vorbi ca un localnic, e un drum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228415"
+    },
+    {
+      "english": "Your progress, is visible, every day.",
+      "Romanian": "Progresul tău, e vizibil, zilnic.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228416"
+    },
+    {
+      "english": "Curiosity, unlocks, Romanian fluency.",
+      "Romanian": "Curiozitatea, deblochează, fluența în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228417"
+    },
+    {
+      "english": "You are more, capable, than you know.",
+      "Romanian": "Ești mai capabil, decât știi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228417"
+    },
+    {
+      "english": "New sounds, are just, new friends.",
+      "Romanian": "Sunete noi, sunt doar, prieteni noi.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228418"
+    },
+    {
+      "english": "Embrace the challenge, of Romanian.",
+      "Romanian": "Îmbrățișează provocarea, limbii române.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228419"
+    },
+    {
+      "english": "You can express, yourself, in Romanian.",
+      "Romanian": "Te poți exprima, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228420"
+    },
+    {
+      "english": "Romanian culture, waits, for you.",
+      "Romanian": "Cultura română, te așteaptă.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228421"
+    },
+    {
+      "english": "Keep speaking, don't hold back.",
+      "Romanian": "Continuă să vorbești, nu te opri.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228422"
+    },
+    {
+      "english": "Your efforts, are truly, worth it.",
+      "Romanian": "Eforturile tale, merită, cu siguranță.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228423"
+    },
+    {
+      "english": "From beginner, to speaker, is a path.",
+      "Romanian": "De la începător, la vorbitor, e un drum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228424"
+    },
+    {
+      "english": "You can understand, Romanian movies.",
+      "Romanian": "Poți înțelege, filme românești.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228425"
+    },
+    {
+      "english": "Say it loud, say it proud.",
+      "Romanian": "Spune tare, spune cu mândrie.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228426"
+    },
+    {
+      "english": "This language, is your new skill.",
+      "Romanian": "Această limbă, e noua ta abilitate.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228427"
+    },
+    {
+      "english": "You will surprise, yourself, with fluency.",
+      "Romanian": "Te vei mira, pe tine însuți, de fluență.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228428"
+    },
+    {
+      "english": "Little by little, mastery comes.",
+      "Romanian": "Încet, încet, stăpânirea vine.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228429"
+    },
+    {
+      "english": "You can order coffee, in Romanian.",
+      "Romanian": "Poți comanda cafea, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228429"
+    },
+    {
+      "english": "Your Romanian, gets better, daily.",
+      "Romanian": "Româna ta, se îmbunătățește, zilnic.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228430"
+    },
+    {
+      "english": "You are building, a new connection.",
+      "Romanian": "Construiești, o nouă conexiune.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228431"
+    },
+    {
+      "english": "This knowledge, is power.",
+      "Romanian": "Această cunoaștere, e putere.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228432"
+    },
+    {
+      "english": "You are a Romanian speaker, now.",
+      "Romanian": "Ești un vorbitor, de română, acum.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228433"
+    },
+    {
+      "english": "Romanian words, are your tools.",
+      "Romanian": "Cuvintele românești, sunt uneltele tale.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228434"
+    },
+    {
+      "english": "Embrace the learning, enjoy the process.",
+      "Romanian": "Acceptă învățarea, bucură-te de proces.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228435"
+    },
+    {
+      "english": "You can tell stories, in Romanian.",
+      "Romanian": "Poți spune povești, în română.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228435"
+    },
+    {
+      "english": "Your voice, matters, in this language.",
+      "Romanian": "Vocea ta, contează, în această limbă.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228436"
+    },
+    {
+      "english": "Success in Romanian, starts here.",
+      "Romanian": "Succesul în română, începe aici.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228437"
+    },
+    {
+      "english": "You can, speak Romanian, with practice.",
+      "Romanian": "Poți, vorbi română, cu exercițiu.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228438"
+    },
+    {
+      "english": "Romanian sounds, like music, sometimes.",
+      "Romanian": "Româna sună, ca muzica, uneori.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228439"
+    },
+    {
+      "english": "Small words, make, big differences.",
+      "Romanian": "Cuvinte mici, fac, diferențe mari.",
+      "category": "Confidence",
+      "generated_at": "2026-07-24T04:17:55.228440"
     }
   ],
-  "last_updated": "2026-07-23T04:17:22.465312"
+  "last_updated": "2026-07-24T04:17:55.228442"
 }
